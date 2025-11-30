@@ -3,13 +3,9 @@
 
 I am a **Machine Learning Engineer** and a student of **Mathematical Engineering and Artificial Intelligence** at Universidad Pontificia Comillas (ICAI). My work focuses on building Machine Learning systems, developing prototypes with Large Language Models, and applying mathematical and data-driven methods to real-world problems.
 
-Currently, I work as a **Data Scientist Intern at Ericsson**, within the **AI Design & Prototype Department**, where I develop Generative AI solutions, LLM-based tools, and end-to-end machine learning pipelines.
-
-My background combines solid mathematical foundations, hands-on software development, and practical ML experience.
-
 ---
 
-## 🧠 Areas of Expertise
+## Areas of Expertise
 
 - **Deep Learning** (CNNs, RNNs, VAEs... — mainly with PyTorch)  
 - **Natural Language Processing** (NER, Sentiment Analysis, LLM adaptation, prompt engineering, Transformer Arquitecture, Fine Tuning Techniques...)  
@@ -21,7 +17,7 @@ My background combines solid mathematical foundations, hands-on software develop
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 ### **Programming & ML**
 <p>
@@ -59,7 +55,7 @@ My background combines solid mathematical foundations, hands-on software develop
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### **Automatic Alert Generation with NER & Sentiment Analysis**  
 A multimodal pipeline combining **BLIP image captioning**, **text fusion**, **NER**, **Sentiment Analysis**, and an **LLM-based alert generator**.  
@@ -86,7 +82,7 @@ Includes EDA, dimensionality reduction, supervised models (LR, KNN, Trees, RF), 
 
 ---
 
-## 🎓 Academic Background
+## Academic Background
 
 ### **B.Sc. in Mathematical Engineering & Artificial Intelligence**  
 *Universidad Pontificia Comillas (ICAI), Madrid*  
@@ -103,21 +99,7 @@ Relevant coursework:
 
 ---
 
-## 💼 Professional Experience
-
-### **Data Scientist Intern – Ericsson (AI Design & Prototype Department)**  
-- Developed **Generative AI prototypes** and LLM-based tools.  
-- Built data pipelines and ML components for R&D applications.  
-- Worked in multidisciplinary teams advancing internal AI capabilities.
-
-### **Teaching & Research Collaborator – Universidad Pontificia Comillas**  
-- Adapted and evaluated **Large Language Models for code understanding and generation**.  
-- Worked on NLP tasks and model assessment.  
-- Supported research teams in ML-driven experimentation.
-
----
-
-## 📫 Contact
+## Contact
 
 📧 Email: **ulises.diezsa@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/ulises-díez-santaolalla-0a60b5280**  
