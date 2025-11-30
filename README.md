@@ -1,115 +1,124 @@
 # Ulises Díez Santaolalla  
-### Machine Learning Engineer | Mathematical Engineering & Artificial Intelligence Student
+### Machine Learning Engineer | Mathematical Engineering & AI Student
 
-Soy un estudiante de **Ingeniería Matemática e Inteligencia Artificial** en la Universidad Pontificia Comillas, con experiencia en desarrollo de modelos de Machine Learning, análisis de datos, optimización y en la creación de sistemas basados en LLMs.  
-Actualmente trabajo como **Data Scientist Intern en Ericsson**, dentro del departamento de **AI Design & Prototype**, donde desarrollo prototipos de IA para aplicaciones reales.
+I am a **Machine Learning Engineer** and a student of **Mathematical Engineering and Artificial Intelligence** at Universidad Pontificia Comillas (ICAI). My work focuses on building Machine Learning systems, developing prototypes with Large Language Models, and applying mathematical and data-driven methods to real-world problems.
 
-Me apasiona la intersección entre la modelización matemática, el aprendizaje automático y el diseño de sistemas inteligentes escalables.
+Currently, I work as a **Data Scientist Intern at Ericsson**, within the **AI Design & Prototype Department**, where I develop Generative AI solutions, LLM-based tools, and end-to-end machine learning pipelines.
+
+My background combines solid mathematical foundations, hands-on software development, and practical ML experience.
 
 ---
 
-## 🧠 Áreas de especialización
-Durante mi formación y experiencia profesional he trabajado en:
+## 🧠 Areas of Expertise
 
-- **Deep Learning (CNNs, Transformers, RNNs)**  
-- **Computer Vision** (image captioning, feature extraction, BLIP models)  
-- **Natural Language Processing** (NER, SA, LLM adaptation, prompt engineering)  
+- **Deep Learning** (Transformers, CNNs, RNNs — mainly with PyTorch)  
+- **Natural Language Processing** (NER, Sentiment Analysis, LLM adaptation, prompt engineering)  
+- **Computer Vision** (image captioning, feature extraction, multimodal pipelines)  
 - **Reinforcement Learning**  
 - **Time Series Analysis & Forecasting**  
-- **Optimization & Operations Research** (Gurobi, glpk)  
-- **MLOps básico** (pipelines, experiment tracking, GitHub project management)
+- **Mathematical Modeling & Optimization** (Gurobi, numerical methods)  
+- **MLOps Foundations** (data pipelines, GitHub project management, reproducible environments)
 
 ---
 
-## 🛠 Lenguajes y Herramientas
+## 🛠 Technical Skills
 
-### **Programación**
+### **Programming & ML**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45"/> 
-</p>
-
-### **Machine Learning & Data Science**
-<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/>
 </p>
 
-### **Datos, Visualización y Bases de Datos**
+### **Backend, Databases & Cloud**
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+</p>
+
+### **Tools & DevOps**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
+
+### **Frontend & Other Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45"/>
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-### 🔹 **Automatic Alert Generation with NER & Sentiment Analysis**  
-Sistema completo que combina **Image Captioning (BLIP)** + **NLP** + **LLMs** para generar alertas automáticas a partir de noticias o publicaciones sociales.  
-Incluye fusión de texto, NER, Sentiment Analysis y generación de alertas contextualizadas.  
+### **Automatic Alert Generation with NER & Sentiment Analysis**  
+A multimodal pipeline combining **BLIP image captioning**, **text fusion**, **NER**, **Sentiment Analysis**, and an **LLM-based alert generator**.  
+Designed to extract entities, understand sentiment, and generate concise alerts from news articles and social media posts.  
 🔗 https://github.com/Ulisesdz/NER-SA-AutomaticAlertGenerator
 
 ---
 
-### 🔹 **Blockchain Project (Python + Flask)**  
-Red blockchain simplificada con:
-- Prueba de trabajo  
-- Registro de transacciones  
-- Consenso distribuido entre nodos  
-- Endpoints de diagnóstico y estado de red  
-- Mecanismos de sincronización y backup  
-
+### **Blockchain Network in Python (Flask)**  
+A simplified blockchain implementation with:  
+- Proof-of-Work mining  
+- Transaction handling  
+- Distributed consensus algorithm  
+- Node synchronization and backup  
+- Diagnostics and network monitoring endpoints  
 🔗 https://github.com/Ulisesdz/BlockChain_Project
 
 ---
 
-### 🔹 **FICO Credit Risk Prediction**  
-Proyecto completo de **Machine Learning supervisado y no supervisado** para estimar la probabilidad de repago de créditos.  
-Incluye EDA, reducción de dimensionalidad, comparación de varios modelos y evaluación con múltiples métricas.  
+### **FICO Credit Risk Prediction**  
+A full ML pipeline for predicting HELOC repayment risk using the FICO dataset.  
+Includes EDA, dimensionality reduction, supervised models (LR, KNN, Trees, RF), and evaluation with metrics such as Accuracy, F1, and ROC-AUC.  
 🔗 https://github.com/Ulisesdz/FICO_MLModels
 
 ---
 
-## 📚 Formación Académica Relevante
+## 🎓 Academic Background
 
-**Grado en Ingeniería Matemática e Inteligencia Artificial**  
-*Universidad Pontificia Comillas (ICAI)*  
-Asignaturas destacadas:
-- Deep Learning  
-- Computer Vision  
-- Reinforcement Learning  
-- Natural Language Processing  
-- Time Series Analysis & Forecasting  
-- Numerical Methods & Optimization  
-- Statistical Modeling  
-- Databases & Distributed Systems  
+### **B.Sc. in Mathematical Engineering & Artificial Intelligence**  
+*Universidad Pontificia Comillas (ICAI), Madrid*  
+
+Relevant coursework:  
+- **Deep Learning**  
+- **Natural Language Processing**  
+- **Reinforcement Learning**  
+- **Computer Vision**  
+- **Time Series Analysis & Forecasting**  
+- **Statistical Learning & Modeling**  
+- **Optimization & Numerical Methods**  
+- **Databases & Distributed Systems**
 
 ---
 
-## 💼 Experiencia Profesional
+## 💼 Professional Experience
 
 ### **Data Scientist Intern – Ericsson (AI Design & Prototype Department)**  
-- Desarrollo de prototipos de **IA generativa** y herramientas basadas en LLMs.  
-- Construcción de pipelines de datos y modelos para aplicaciones reales.  
-- Trabajo en entornos de I+D con equipos multidisciplinares.  
+- Developed **Generative AI prototypes** and LLM-based tools.  
+- Built data pipelines and ML components for R&D applications.  
+- Worked in multidisciplinary teams advancing internal AI capabilities.
 
 ### **Teaching & Research Collaborator – Universidad Pontificia Comillas**  
-- Adaptación y entrenamiento de LLMs para asistencia en código, revisión y generación.  
-- Trabajo con técnicas modernas de NLP y evaluación de modelos.
+- Adapted and evaluated **Large Language Models for code understanding and generation**.  
+- Worked on NLP tasks and model assessment.  
+- Supported research teams in ML-driven experimentation.
 
 ---
 
-## 📫 Contacto
-📩 **Email:** ulises.diezsa@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/ulises-díez-santaolalla-0a60b5280  
-🐙 **GitHub:** https://github.com/Ulisesdz  
+## 📫 Contact
+
+📧 Email: **ulises.diezsa@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/ulises-díez-santaolalla-0a60b5280**  
+🐙 GitHub: **https://github.com/Ulisesdz**
 
