@@ -11,8 +11,8 @@ My background combines solid mathematical foundations, hands-on software develop
 
 ## 🧠 Areas of Expertise
 
-- **Deep Learning** (Transformers, CNNs, RNNs — mainly with PyTorch)  
-- **Natural Language Processing** (NER, Sentiment Analysis, LLM adaptation, prompt engineering)  
+- **Deep Learning** (CNNs, RNNs, VAEs... — mainly with PyTorch)  
+- **Natural Language Processing** (NER, Sentiment Analysis, LLM adaptation, prompt engineering, Transformer Arquitecture, Fine Tuning Techniques...)  
 - **Computer Vision** (image captioning, feature extraction, multimodal pipelines)  
 - **Reinforcement Learning**  
 - **Time Series Analysis & Forecasting**  
@@ -40,7 +40,6 @@ My background combines solid mathematical foundations, hands-on software develop
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
 </p>
 
 ### **Tools & DevOps**
@@ -52,6 +51,8 @@ My background combines solid mathematical foundations, hands-on software develop
 
 ### **Frontend & Other Tools**
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45"/>
 </p>
